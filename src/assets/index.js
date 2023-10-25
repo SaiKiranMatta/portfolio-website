@@ -19,7 +19,7 @@ import reactjs from "./tech/reactjs.png";
 import nextjs from "./tech/nextjs.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import threejs from "./tech/threejsicon.png";
 import C from "./tech/C.png";
 import django from "./tech/django.svg";
 
