@@ -217,7 +217,7 @@ const projects = [
     {
         name: "CP Leaderboard",
         description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+            "Website for tracking coding progress and rankings across platforms like LeetCode. Join the community, compete, and climb the ranks in competitive coding.",
         tags: [
             {
                 name: "nextjs",
